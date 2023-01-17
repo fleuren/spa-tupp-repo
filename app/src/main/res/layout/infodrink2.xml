@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </androidx.cardview.widget.CardView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:background="@color/bg_brown"
+            android:padding="50px"
+            android:text="1. Combine the coffee and water and stir.\n\n2. Heat the milk or cream in the microwave until hot but not boiling (about 30 seconds).\n\n3. Fill the rest of the mug with milk or cream.\n\n4. Add the Nutella and give it a thorough mix.\n\n5. Add sugar or sweetener to taste if using.
+"
+            android:textColor="@color/white">
+        </TextView>
+
+
+
+    </LinearLayout>
+</androidx.appcompat.widget.LinearLayoutCompat>

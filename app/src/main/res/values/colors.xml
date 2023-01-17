@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="logo_brown">#FF392121</color>
+    <color name="bg_brown">#FF4F372D</color>
+    <color name="menuButton_brown">#FF9C7943</color>
+    <color name="foodItem_green">#FF5F6749</color>
+    <color name="foodItem_mocha">#FF9B8D5A</color>
+    <color name="foodItem_pink">#FFF3A9A9</color>
+    <color name="drinkItem_lightPurlple">#FF9B8D5A</color>
+    <color name="drinkItem_darkPurlple">#FF9B8D5A</color>
+    <color name="drinkItem_mocha">#FF9B8D5A</color>
+    <color name="bgTintButton_purple">#FF380645</color>
+    <color name="bgTintButton_red">#FFAF5749</color>
+
+</resources>

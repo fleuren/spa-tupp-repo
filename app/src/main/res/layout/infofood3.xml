@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </androidx.cardview.widget.CardView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:background="@color/bg_brown"
+            android:padding="50px"
+            android:text="1. Butter a large tube pan. Sprinkle butterscotch pudding mix and white sugar into tube pan. Arrange rolls around the pan. Sprinkle with pecans and brown sugar, then drizzle melted butter on top. Place pan in a cold oven and allow dough to rise overnight. \n\n2. Remove pan from oven.\n\n3. Preheat oven to 350 degrees F (175 degrees C).\n\n4. Bake in preheated oven until golden brown, 25 to 30 minutes. Invert pan onto a large plate to serve."
+            android:textColor="@color/white">
+        </TextView>
+
+
+
+    </LinearLayout>
+</androidx.appcompat.widget.LinearLayoutCompat>

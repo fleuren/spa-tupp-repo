@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </androidx.cardview.widget.CardView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:background="@color/bg_brown"
+            android:padding="50px"
+            android:text="1.In a small bowl, beat cream cheese and 1/4 cup confectioners' sugar until smooth. Unroll crescent dough and separate into four rectangles; seal perforations. Cut each rectangle in half, making eight squares.\n\n2. Transfer squares to a parchment-lined baking sheet. Spread 1 tablespoon cream cheese mixture diagonally across each square. Top with 1 tablespoon jam. Bring two opposite corners of dough over filling; pinch together firmly to seal.\n\n3. Bake at 375° for 10-12 minutes or until golden brown. Combine milk and remaining confectioners' sugar; drizzle over pastries. Serve warm. Refrigerate leftovers."
+            android:textColor="@color/white">
+        </TextView>
+
+
+
+    </LinearLayout>
+</androidx.appcompat.widget.LinearLayoutCompat>

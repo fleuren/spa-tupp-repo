@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/rgtho/AndroidStudioProjects/Tupp/app/src/main/res/layout/activity_drinksrecipe1.xml" value="0.33" />
+        <entry key="..\:/Users/rgtho/AndroidStudioProjects/Tupp/app/src/main/res/layout/activity_drinksrecipe2.xml" value="0.18070652173913043" />
+        <entry key="..\:/Users/rgtho/AndroidStudioProjects/Tupp/app/src/main/res/layout/activity_drinksrecipe3.xml" value="0.2" />
+        <entry key="..\:/Users/rgtho/AndroidStudioProjects/Tupp/app/src/main/res/layout/activity_food_menu.xml" value="0.2776268115942029" />
+        <entry key="..\:/Users/rgtho/AndroidStudioProjects/Tupp/app/src/main/res/layout/activity_foodrecipe1.xml" value="0.22" />
+        <entry key="..\:/Users/rgtho/AndroidStudioProjects/Tupp/app/src/main/res/layout/activity_foodrecipe2.xml" value="0.33" />
+        <entry key="..\:/Users/rgtho/AndroidStudioProjects/Tupp/app/src/main/res/layout/activity_foodrecipe3.xml" value="0.25" />
+        <entry key="..\:/Users/rgtho/AndroidStudioProjects/Tupp/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/rgtho/AndroidStudioProjects/Tupp/app/src/main/res/layout/activity_splash_screen.xml" value="0.18085106382978725" />
+        <entry key="..\:/Users/rgtho/AndroidStudioProjects/Tupp/app/src/main/res/layout/drinks_layout.xml" value="0.25" />
+        <entry key="..\:/Users/rgtho/AndroidStudioProjects/Tupp/app/src/main/res/layout/food_layout.xml" value="0.33" />
+        <entry key="..\:/Users/rgtho/AndroidStudioProjects/Tupp/app/src/main/res/layout/infodrink1.xml" value="0.18085106382978725" />
+        <entry key="..\:/Users/rgtho/AndroidStudioProjects/Tupp/app/src/main/res/layout/infodrink2.xml" value="0.33" />
+        <entry key="..\:/Users/rgtho/AndroidStudioProjects/Tupp/app/src/main/res/layout/infodrink3.xml" value="0.18034447821681865" />
+        <entry key="..\:/Users/rgtho/AndroidStudioProjects/Tupp/app/src/main/res/layout/infofood1.xml" value="0.25" />
+        <entry key="..\:/Users/rgtho/AndroidStudioProjects/Tupp/app/src/main/res/layout/infofood2.xml" value="0.18034447821681865" />
+        <entry key="..\:/Users/rgtho/AndroidStudioProjects/Tupp/app/src/main/res/layout/infofood3.xml" value="0.5" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

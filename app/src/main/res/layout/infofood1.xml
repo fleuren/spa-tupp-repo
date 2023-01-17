@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </androidx.cardview.widget.CardView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:background="@color/bg_brown"
+            android:padding="50px"
+            android:text="1. Preheat oven to 400°. In a large cast-iron or other heavy skillet, melt butter over medium heat. Stir in brown sugar until blended. Add bananas; stir to coat. Remove from heat; set aside.\n\n2. Unfold puff pastry; cut into 4 rectangles. Place a halved banana in center of each square. Overlap 2 opposite corners of pastry over banana; pinch tightly to seal. Place on parchment-lined baking sheets.\n\n3. Bake until golden brown, 20-25 minutes. Drizzle with chocolate. Serve warm, with ice cream if desired."
+            android:textColor="@color/white">
+        </TextView>
+
+
+
+    </LinearLayout>
+</androidx.appcompat.widget.LinearLayoutCompat>
